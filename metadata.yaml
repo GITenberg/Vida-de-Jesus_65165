@@ -1,16 +1,21 @@
 _repo: Vida-de-Jesus_65165
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Vega, Federico de la
     gutenberg_agent_id: '53213'
     url: http://www.gutenberg.org/2009/agents/53213
+covers:
+- cover_type: archival
+  image_path: 65165-h/images/cover.jpg
 creator:
   author:
     agent_name: Renán, Ernesto
     gutenberg_agent_id: '53212'
     url: http://www.gutenberg.org/2009/agents/53212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65165#Vida-de-Jesus
 gutenberg_issued: '2021-04-26'
 gutenberg_type: Text
 identifiers:
